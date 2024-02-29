@@ -1,0 +1,41 @@
+.history {
+    background-image: url(https://preview.redd.it/qunxfupt8p271.png?auto=webp&s=08e0a6f44da046f30f16748504dcd9e7b77b3bab);
+    color: white;
+    text-align: center;
+    background-size: 500px;
+    height: 200px;
+    padding-top: 125px;
+    font-size: 100px;
+  }
+  h2{
+    text-align:center;
+    color: whitesmoke;
+  }
+  .description {
+    background-color: darkgray;
+    font-size: 25px;
+  
+  font-size: larger;
+  }
+  .dota-img {
+    height: 300px;
+    padding-left: 300px;
+    border-radius: 0%
+    margin:0%;
+  }
+  body {
+      background-image: url(https://e0.pxfuel.com/wallpapers/146/721/desktop-wallpaper-dota-2-carbon-logo-grunge-art-carbon-background-creative-dota-2-black-logo-online-games-dota-2-logo-dota-2.jpg);
+  }
+  p {
+    background-color: bisque;
+    font-size: 20px;
+  }
+  .dota-img2 {
+    height:300px;
+    padding-left: 150px;
+    border-radius: 0%;
+  }
+  footer {
+    font-size: 50px;;
+    padding-left: 600px;
+  }
